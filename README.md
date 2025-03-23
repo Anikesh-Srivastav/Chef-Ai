@@ -1,12 +1,23 @@
-# React + Vite
+# 🍽️ Chef AI - Smart Recipe Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Chef AI is a web application that helps users generate delicious recipes based on the ingredients they have on hand. It utilizes AI to suggest recipes, providing step-by-step instructions in a clear and interactive format.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- ✅ **Ingredient-Based Recipe Suggestions** – Enter available ingredients, and Chef AI will generate a recipe for you.
+- 🎨 **Clean UI with Smooth Animations** – Modern and responsive design with interactive animations.
+- 🔄 **Real-Time AI-Powered Recipe Generation** – Recipes are fetched dynamically from an AI model.
+- ✨ **Loading Animation with Blurred Background** – A custom Lottie animation plays while fetching data.
+- 🌍 **Built with React** – Fast and efficient frontend development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshots
+![Chef AI Screenshot](./screenshots/chef-ai-preview.png)
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
+- **Frontend:** React, React Markdown, CSS
+- **Animation:** Lottie
+- **Backend AI Integration:** Hugging Face API (Mistral Model)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation & Setup
+1. Clone this repository:
+   ```sh
+   git clone https://github.com/your-username/chef-ai.git
