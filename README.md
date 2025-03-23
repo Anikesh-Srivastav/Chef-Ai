@@ -9,8 +9,8 @@ Chef AI is a web application that helps users generate delicious recipes based o
 - ✨ **Loading Animation with Blurred Background** – A custom Lottie animation plays while fetching data.
 - 🌍 **Built with React** – Fast and efficient frontend development.
 
-## 📸 Screenshots
-![Chef AI Screenshot](./screenshots/chef-ai-preview.png)
+## 📸 Screen Recording
+![Chef AI]([./screenshots/chef-ai-preview.png](https://github.com/user-attachments/assets/c1c7c815-f760-4359-92a4-e5c98771fe8d))
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, React Markdown, CSS
